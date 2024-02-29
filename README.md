@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+- 👩‍🎓 I’m a PhD candidate in Artificial Intelligence at Bielefeld University.
+- 🧰 I’m currently working on **`Graph Neural Networks`** & **`Operational Research`** & **`Federated Learning`**.
+- 🤩 I’m enthusiastic about solving real-world optimization problems via deep learning techniques.
+- 🤝 I'm open to collaborations and job opportunities in related fields.
+- 📫 How to reach me: <shiqing.liu@uni-bielefeld.de>
+
+- ⚡ Fun facts ...
+  - 💬 Ich spreche ein bisschen Deutsch, und ich lerne immer noch fleißig.
+  - 🛹 I play surfskate (only when the weather is good) and badminton (in bad weather too).
+  - 🐶 I'm a dog-lover but I have no pets (yet).
+  - 🌎 I like travelling and have been to 10+ countries.
+
 <!--
 **Shiqing-Liu/Shiqing-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
