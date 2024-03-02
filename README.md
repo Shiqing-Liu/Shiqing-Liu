@@ -3,7 +3,7 @@
 - 👩‍🎓 I’m a PhD candidate in Artificial Intelligence at Bielefeld University.
 - 🛠 I’m currently working on **`Graph Neural Networks`** & **`Operational Research`** & **`Federated Learning`**.
 - 🤩 I’m enthusiastic about solving real-world optimization problems via deep learning techniques.
-- 🤝 I'm open to collaborations and job opportunities in related fields. Contact me: <shiqing.liu@uni-bielefeld.de>
+- 🤝 I'm open to collaborations in related fields. Contact me: <shiqing.liu@uni-bielefeld.de>
 - ☕ Fun facts ...
   - 💬 Ich spreche ein bisschen Deutsch, und ich lerne immer noch fleißig.
   - 🛹 I play surfskate (only when the weather is good) and badminton (in bad weather too).
