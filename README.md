@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me 👋
 
 - 👩‍🎓 I’m a PhD candidate in Artificial Intelligence at Bielefeld University.
 - 🛠 I’m currently working on **`Graph Neural Networks`** & **`Operational Research`** & **`Federated Learning`**.
@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+my personal website: https://shiqingliu.github.io/
