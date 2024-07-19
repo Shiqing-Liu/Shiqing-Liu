@@ -1,4 +1,4 @@
-### About me 👋
+### About me
 
 - 👩‍🎓 I’m a PhD candidate in Artificial Intelligence at Bielefeld University.
 - 🛠 I’m working on **Graph Neural Networks** & **Operational Research** & **Federated Learning**.
