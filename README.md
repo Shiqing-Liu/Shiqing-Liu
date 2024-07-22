@@ -10,11 +10,6 @@
 - 🤝 I'm open to collaborations in related fields.
 
 
-<div id="badges">
-  <a href="https://[www.linkedin.com/in/shiqing-liu/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 ### Skills
 
