@@ -1,7 +1,9 @@
+<h1 align="center">Hi 👋, I'm Shiqing Liu</h1>
+
 
 ### About me  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px"></h1>
 
-- 👩‍🎓 I’m a PhD candidate in Artificial Intelligence at Bielefeld University.
+- 👩‍🎓 I’m a PhD candidate in machine learning at Bielefeld University, Germany.
   
 - 🛠 I’m working on **Graph Neural Networks** & **Operational Research** & **Federated Learning**.
   
