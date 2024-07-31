@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+I'm+Shiqing+Liu;Here's+something+about+me+.+.+.)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+I'm+Shiqing+Liu;Here's+something+about+me+.+.+.)](https://git.io/typing-svg) 
 
 
-
-### Bio </h1>
+### Bio <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px"> </h1>  
 
 - 👩‍🎓 I’m a PhD candidate in machine learning at Bielefeld University, Germany.
   
@@ -11,7 +10,6 @@
 - 🤩 I’m enthusiastic about solving real-world optimization problems via deep learning techniques.
   
 - 🤝 I'm open to collaborations in related fields.
-
 
 
 ### Skills
