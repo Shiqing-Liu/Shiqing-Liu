@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Shiqing Liu <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px">  </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+I'm+Shiqing+Liu;Here's+something+about+me+.+.+.)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px"> 
+
 
 
 ### Bio </h1>
