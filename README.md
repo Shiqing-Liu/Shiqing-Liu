@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+I'm+Shiqing+Liu+.+.+.)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+I'm+Shiqing+Liu+.+.+.&height=30)](https://git.io/typing-svg) 
 
 
 ### Bio 
