@@ -1,15 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+I'm+Shiqing+Liu;Here's+something+about+me+.+.+.)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+I'm+Shiqing+Liu+.+.+.)](https://git.io/typing-svg) 
 
 
-### Bio <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px"> 
+### Bio 
 
-- 👩‍🎓 I’m a PhD candidate in machine learning at Bielefeld University, Germany.
+- 👩‍🎓 I’m a PhD candidate in machine learning at Bielefeld University, Germany. 
   
 - 🛠 I’m working on **Graph Neural Networks** & **Operational Research** & **Federated Learning**.
   
 - 🤩 I’m enthusiastic about solving real-world optimization problems via deep learning techniques.
   
-- 🤝 I'm open to collaborations in related fields.
+- 🤝 I'm open to collaborations in related fields. 
 
 
 ### Skills
@@ -17,7 +17,7 @@
 <img height=30 src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img height=30 src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> <img height=30 src="https://img.shields.io/badge/PyG-FDEE21?style=flat-square&logo=PyG&logoColor=black"> <img height=30 src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> <img height=30 src="https://img.shields.io/badge/jupyter-%23FF9900.svg?style=for-the-badge&logo=jupyter&logoColor=white"> <img height=30 src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> <img height=30 src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img height=30 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img height=30 src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img height=30 src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img height=30 src="https://img.shields.io/badge/OverLeaf-%234ea94b.svg?style=for-the-badge&logo=overleaf&logoColor=white"> <img height=30 src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"> <img height=30 src="https://img.shields.io/badge/Latex-%232671E5.svg?style=for-the-badge&logo=latex&logoColor=white"> <img height=30 src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"> <img height=30 src="https://img.shields.io/badge/MatLab-%23FF9900.svg?style=for-the-badge&logo=matlab&logoColor=%white"> <img height=30 src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img height=30 src="https://img.shields.io/badge/PyCharm-F2C811?style=for-the-badge&logo=PyCharm&logoColor=white">
 
 
-### Stats
+### Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px"> 
 [![GitHub Streak](https://github-readme-streak-stats-lczv.vercel.app?user=shiqing-liu&card_height=170)](https://git.io/streak-stats)
 
 
