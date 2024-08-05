@@ -7,7 +7,7 @@
   
 - 🛠 I’m working on **Graph Neural Networks** & **Operational Research** & **Federated Learning**.
   
-- 🤩 I’m enthusiastic about solving real-world optimization problems via deep learning techniques.
+- 🤩 I’m enthusiastic about solving graph-based optimization problems via deep learning techniques.
   
 - 🤝 I'm open to collaborations in related fields. 
 
