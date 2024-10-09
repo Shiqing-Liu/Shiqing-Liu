@@ -1,24 +1,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+I'm+Shiqing+Liu+:+\)&height=30)](https://git.io/typing-svg) 
 
 
-### Bio 
+### About Me
 
-- 👩‍🎓 I’m a PhD candidate in machine learning at Bielefeld University, Germany. 
-  
-- 🛠 I’m working on **Graph Neural Networks** & **Operational Research** & **Federated Learning**.
-  
-- 🤩 I’m enthusiastic about developing deep learning (especially GNN) models to solve data-driven optimization problems.
-  
-- 🤝 I'm open to collaborations in related fields. 
+👩‍🎓 **PhD Candidate in Machine Learning** | Bielefeld University, Germany.  
+
+🛠 **Research Focus:** Graph Neural Networks, Operational Research, and Federated Learning.  
+
+🤩 **Passionate About:** Developing deep learning models to solve data-driven optimization challenges (route planning, resource allocation, etc).  
+
+🤝 **Collaborative:** I enjoy working with others and welcome collaborations in related fields!
 
 
 ### Skills
 
-<img height=30 src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img height=30 src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> <img height=30 src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"> <img height=30 src="https://img.shields.io/badge/PyG-FDEE21?style=flat-square&logo=PyG&logoColor=black"> <img height=30 src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> <img height=30 src="https://img.shields.io/badge/jupyter-%23FF9900.svg?style=for-the-badge&logo=jupyter&logoColor=white"> <img height=30 src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> <img height=30 src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img height=30 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img height=30 src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img height=30 src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img height=30 src="https://img.shields.io/badge/OverLeaf-%234ea94b.svg?style=for-the-badge&logo=overleaf&logoColor=white"> <img height=30 src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"> <img height=30 src="https://img.shields.io/badge/Latex-%232671E5.svg?style=for-the-badge&logo=latex&logoColor=white"> <img height=30 src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"> <img height=30 src="https://img.shields.io/badge/MatLab-%23FF9900.svg?style=for-the-badge&logo=matlab&logoColor=%white"> <img height=30 src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img height=30 src="https://img.shields.io/badge/PyCharm-F2C811?style=for-the-badge&logo=PyCharm&logoColor=white"> <img height=30 src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img height=30 src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img height=30 src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> <img height=30 src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"> <img height=30 src="https://img.shields.io/badge/PyG-FDEE21?style=flat-square&logo=PyG&logoColor=black"> <img height=30 src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> <img height=30 src="https://img.shields.io/badge/jupyter-%23FF9900.svg?style=for-the-badge&logo=jupyter&logoColor=white"> <img height=30 src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> <img height=30 src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img height=30 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img height=30 src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img height=30 src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img height=30 src="https://img.shields.io/badge/OverLeaf-%234ea94b.svg?style=for-the-badge&logo=overleaf&logoColor=white"> <img height=30 src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"> <img height=30 src="https://img.shields.io/badge/Latex-%232671E5.svg?style=for-the-badge&logo=latex&logoColor=white"> <img height=30 src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"> <img height=30 src="https://img.shields.io/badge/MatLab-%23FF9900.svg?style=for-the-badge&logo=matlab&logoColor=%white"> <img height=30 src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img height=30 src="https://img.shields.io/badge/PyCharm-F2C811?style=for-the-badge&logo=PyCharm&logoColor=white"> <img height=30 src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 
 ### Stats 
 [![GitHub Streak](https://github-readme-streak-stats-lczv.vercel.app?user=shiqing-liu&card_height=160)](https://git.io/streak-stats)  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px"> 
+
+
+
 
 <!--
 **Shiqing-Liu/Shiqing-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +31,14 @@
   - 🛹 I play surfskate (only when the weather is good) and badminton (in bad weather too).
   - 🐶 I'm a dog-lover but I have no pets (yet).
   - 🌎 I like traveling and have been to 10+ countries.
+
+- 👩‍🎓 I’m a PhD candidate in machine learning at Bielefeld University, Germany. 
+  
+- 🛠 I’m working on **Graph Neural Networks** & **Operational Research** & **Federated Learning**.
+  
+- 🤩 I’m passionate about developing deep learning models to solve data-driven optimization problems (resource allocation, route planning, etc.)
+  
+- 🤝 I'm open to collaborations in related fields. 
 
 
 
