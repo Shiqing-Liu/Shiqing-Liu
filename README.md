@@ -7,7 +7,7 @@
 
 🛠 **Research Focus:** Graph Neural Networks, Operational Research, and Federated Learning.  
 
-🤩 **Passionate About:** Developing deep learning models to solve data-driven optimization challenges (route planning, resource allocation, etc).  
+🤩 **Passionate About:** Developing deep learning models to solve data-driven optimization challenges.  
 
 🤝 **Collaborative:** I enjoy working with others and welcome collaborations in related fields!
 
